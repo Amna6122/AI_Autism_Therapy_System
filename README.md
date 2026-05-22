@@ -67,3 +67,9 @@ This project demonstrates:
 - Feature engineering
 - Predictive analytics
 - Autism therapy data analysis
+
+---
+
+## Author
+Amna Bettar
+
